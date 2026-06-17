@@ -107,11 +107,7 @@ employee-performance-classification-ml
 │
 ├── data
 ├── notebooks
-├── reports
-├── images
 ├── README.md
-├── requirements.txt
-└── .gitignore
 
 ## Future Improvements
 
